@@ -1,5 +1,5 @@
 # algorithms_solutions
-A collection of LeetCode solutions.
+This repository serves as a collection of my solutions to various GeeksforGeeks Data Structures and Algorithms (DSA) problems
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
