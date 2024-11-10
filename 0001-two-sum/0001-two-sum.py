@@ -6,5 +6,5 @@ class Solution:
 
         for j in range(len(nums)): 
             current = target - nums[j]
-            if nums[hash.get(current, 0)] + nums[j] == target and hash.get(current, 0) != j:
-                return [j, hash.get(current)]
+            if current in hash and hash[current] != j:
+                return [j, hash[current]]
